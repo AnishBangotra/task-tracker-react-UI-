@@ -6,11 +6,6 @@ Created for front-end developers who need a quick back-end for prototyping, test
 
 `json-server`,it allows you to mock the API, and provide dynamic access to data. By dynamic, I mean that we can read, add, update, and delete data `(GET, POST, PUT, PATCH, DELETE)`.
 
-* [Egghead.io free video tutorial - Creating demo APIs with json-server](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
-* [JSONPlaceholder - Live running version](https://jsonplaceholder.typicode.com)
-* [__My JSON Server__ - no installation required, use your own data](https://my-json-server.typicode.com)
-
-
 ## Getting started
 
 Install JSON Server 
